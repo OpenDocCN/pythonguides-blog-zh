@@ -1,6 +1,6 @@
 # Python NumPy argsort + 7 个例子
 
-> 原文:# t0]https://pythongguide . com/python-num py-argsort/
+> 原文:# t0]https://pythongguide . com/python-numpy-argsort/
 
 [![Python & Machine Learning training courses](img/49ec9c6da89a04c9f45bab643f8c765c.png)](https://sharepointsky.teachable.com/p/python-and-machine-learning-training-course)
 

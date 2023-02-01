@@ -1,6 +1,6 @@
 # 资料载入器+范例
 
-> [https://python guides . com/pytor 资料载入器/](https://pythonguides.com/pytorch-dataloader/)
+> <https://pythonguides.com/pytorch-dataloader>
 
 [![Python & Machine Learning training courses](img/49ec9c6da89a04c9f45bab643f8c765c.png)](https://sharepointsky.teachable.com/p/python-and-machine-learning-training-course)
 
